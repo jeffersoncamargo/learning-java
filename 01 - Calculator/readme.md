@@ -1,4 +1,4 @@
-# Hello World in Java
+# Calculator in Java
 
 My first "from scratch" project made with Java. Here I have tried to implement protected functions inside the same class of the main method and I also had my first contact with the "import" statement and the Java Scanner class.
 
